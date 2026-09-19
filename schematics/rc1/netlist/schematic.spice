@@ -1,0 +1,8 @@
+** sch_path: /home/nz2xzhkzfeewkgbu/KiCAD/xschem-mcp-server/schematics/rc1/schematic.sch
+**.subckt schematic
+V1 GND in AC 1
+R1 in out 1k m=1
+C1 out GND 100n m=1
+**.ends
+.GLOBAL GND
+.end
